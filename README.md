@@ -1,5 +1,5 @@
 # NLP
-Sentiment Analysis for political leaders in Turkey
+Sentiment Analysis for political leaders.
     This project is about political leaders in Turkey. Sentiment analysis is very important
 for political leaders. Because they want learn what people think about
 them. Therefore I will develop a software using python programming language and Natural 
