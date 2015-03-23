@@ -13,8 +13,8 @@
 **Project Requirements:** Java, Zemberek Library, The OpenNlp Library, Twitter API 
 
 **Steps**
--I will collect tweets from related hashtags and accounts using python tweepy library.
--I will clean these tweets using perl.(@,#,digits v.s ...).
--I will make sentence detection and tokenization using java zemberek library.
--I will label each tweet as positive,negative or neutral.
-*I will create training data for sentiment analysis.
+.Collect tweets from related hashtags and accounts using python tweepy library.
+.Clean these tweets using perl.(@,#,digits v.s ...).
+.Make sentence detection and tokenization using java zemberek library.
+.Label each tweet as positive,negative or neutral.
+.Create training data for sentiment analysis.
