@@ -16,7 +16,7 @@
 - Collect tweets from related hashtags and accounts using python tweepy library.
 - Clean these tweets using perl.(@,#,digits v.s ...).
 - Make sentence detection and tokenization using java zemberek library.
-- Label each tweet as positive,negative or neutral.
-- Create training data using OpenNLp for sentiment analysis.
+- Label each tweet as positive or negative.
+- Create training data using OpenNLP for sentiment analysis.
 - Try some classifier algorithms(for example:Naive Bayes) using Weka
 - Test results using Weka.
