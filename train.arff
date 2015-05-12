@@ -1,0 +1,258 @@
+@relation train
+
+@attribute document string
+@attribute class {Negative ,Positive }
+
+@data
+
+"AKP’nin baþörtülü reklam filmindeki diplomanýn sahte çýktýðýný biliyor musun?", Negative
+"Havuz kanallarýný ve d tipi kanallarý sildik. Ýi oldu anam ve kayýn validem de anti akp li oldular.", Negative 
+"savcýlarý hakimleri deðiþtirip kendi savcýlarýný yerleþtirip     yolsuzluklarý kapatdýnýz ,adalet akp nin einde", Negative
+"Akp papaya aþýk yada hafýza sýfýr!Daha dün soykýrýmý kabul eden papayý Expo 'e davet ediyor KendineGelSaadeteGel", Negative 
+"Akp nin secim reklamlarina sadece gülünür..ajitasyon bile bitmis adamlarda yazik la", Negative
+"AKP'nin kemiklesmis secmeni yuzde  20'yi gecmez. Yuzde  20-25  arasi da ruzgara gore hareket eden/edecek secmeni var.", Negative
+"Ümit Özdað AKP Hükümeti söde Ermeni soykýrýmý iddialarýný kabul etmek için zemin hazýrlýyor", Negative 
+"AKP NÝN TÜRKÝYE'YE ATTIÐI EN BÜYÜK KAZIKTIR AÇILIM...", Negative 
+"AKP oyun plani: kemikleþmiþ %35  seçmeni + sempatizan ek %10 ’u paralel vs propagandasiyla kendinde tutmaya devam etmek", Negative 
+"Ve sonunda tarihe geçtik... Vergiyle çalýþan arabayý ürettik!.. Unutmayýn, herkes konuþur, AKP yapar!..", Positive
+"Saraya para çokken", Negative
+"Emekli için kaynak soran AKP duvara tosladý..!!", Negative 
+"Ýlk defa bu seçimde gündemi Akp belirlemiyor. CHP'nin vaatleri,  MHP'nin oyu, Hdp'nin barajý konuþuluyor. Çýldýrmalarý bu…", Negative
+"Þu AKP-Cemaat kavgasý sayesinde herkes hakkýnda nasýl da aydýnlanýyoruz...Bilgi çaðý güzel þey. Þunu da (cont)", Positive 
+"CHP'nin seçim bildirgesiyle AKP'ninkini karþýlaþtýrýnýz. CHP insan için rakam verirken AKP'nin inþaat ve ihale için rak…", Positive
+"AKP 'baþörtüsü' reklamýndaki 'gözü yaþlý' Rabia edebiyat diplomasýyla týp fakültesi bitirmiþ!", Negative
+"türkiye'de kýlýçtaroðlu'nu alevi kimliði nedeniyle yuhalatan akp ile düsseldorf'ta turgut öker'i chp mitinginde yuhalata", Negative
+"Suriye: Saldýrýlarýn arkasýnda doðrudan AKP var", Negative 
+"Okuma arýzalý dediði akpliler aslýnda ki", Positive 
+"Ýdrak yollarýnda enfeksiyoýn sorunu da var", Negative  
+"Yoksa akp nasýl iktidar olurdu", Positive
+"Chp saða kaydý", Positive 
+"Mhp Sola kaydý diyenler", Positive 
+"Akp TÜRKÝYE'ye kaydý.Haberiniz olsun.", Negative
+"Kýlýçdaroðlu almanya yolunda konuþtu: AKP Rýza Sarraf'ýn, biz Berkin'in onurunu savunuyoruz", Positive
+"AKP'nin kadýna verdiði önem.", Positive  
+"Akp ile Hdp iþbirliði yapýyor. Çünkü Güney þu anda Türkiye'ye mecbur. Güney Kurdistan'in dünyaya açýlabildigi tek...", Negative
+"Þu anda ne yaparlarsa yapsýnlar  .Asliyenin kararlarýný uygula(t)mayan tüm yargý ve AKP silsilesi örgütsel suç iþledi", Negative
+"Her türlü yasakcý zihniyete karþý olmakla yola çýkan , özgürlüklerin savunucusu AKP'nin geldiði nokta.", Negative
+"AKP'li Çalýþma Bakaný Faruk Çelik de  'de emekliye çift ikaramiye vaadinde bulunmuþ!", Positive
+"Aðladýk ya ! Yazýklar olsun Akp Türkiyenin partisi deðil türkte deðil bir parti milletine böyle yapmaz.Ýnsanda degil", Negative
+"Ve AKP çöküyor. Özellikle yurdun güneyinde en “has” AKP’liler bile kendini saklama yollarýný arýyor.", Negative 
+"Haziran'dan sonra AKP, koalisyon kuracak ortak bulamayýnca bilin ne olur? Yezid, bu yazda hükümet kurma görevini kimsey", Negative
+"AKP,MHP ile aþna fiþne meydanlarda birbirlerine dokunmuyorlar,Bakanlarý bile sayabilirim; ama erken,kim daha milliyetçi", Positive
+"Haziran Sabahý AKP !!", Positive
+"Ne mutluluk verici olur...", Positive
+"Hadi inþallah??????", Positive
+"Yýlmaz: Refaransýmýz islam diyorlar ama AKP Haramlarý Helalleþtirme Yolunda Hýzla Ýlerliyor.", Negative
+"dususe gecince AKP gene turbana sarilmis ..simdide turbanli reklam yapmis bol aglamali gecin kardesim millet artik bu edebiyati YEMEZ", Negative
+"Niye Flaþ?  AKP Perinçek ' le,  Ergenekon'la anlaþmayý cignedigi için mi Flaþ. Her gün olmuyo mu bunlar? Þaþýrdýn mi", Negative
+"tüketici zararý karþýlanýr ama AKP yýllarýn zararýný karþýlayacak bir kurum bulabilecekmiyiz", Negative
+"Akp akp olali böyle bi zulüm görmedi :))))", Negative
+"CHP Uzunköprü Gençlik Kollarý Fazla Söze Gerek Býrakmamýþ Bir Cümlede Erdoðan ve Katil Çetesi aKp'yi Özetlemiþ", Negative
+"Eller havaya toplulugu emekliye paralar dagitiyor. Nafile emeklinin ruhu bile akp lidir bosuna ugrasiyorsunuz. Ne kadar aclik o kadar dua", Negative
+"Güzel koalisyon oldular: AKP-Hanefi Avcý-Ýlker Baþbuð-Doðu Perinçek-Çetin Doðan.", Positive
+"AKP, CHP ve MHP hepsi ayný bilincin temel mekanizmasýdýr, kazanana oynuyorlar...", Positive
+"AKP'li Çalýþma Bakaný Faruk Çelik de  'de emekliye çift ikaramiye vaadinde bulunmuþ!", Positive
+"DÝNDAR YETÝÞEN,BÝR NESLÝ???? DÝNDEN ÇIKATRAN,ÝLK DÝNCÝ PARTÝDÝR??", Negative
+"Bugunler daha iyi gunlerimiz. AKP`nin ettigi kotuluklerin sonuclari daha tam", Negative
+"Rasim Ozan Kütahyalý, Beyaz TV'deki programda   Kartallarý grubunu AKP gençlik kollarýnýn kurduðunu itiraf edeli  1 yýl", Positive 
+"Gezici Araþtýrma'nýn anketine göre Doðu ve Güneydoðu'daki Kürt oylarý Akp'den HDP'ye akýyor. Oy kaybýnýn büyük kýsmý buradan", Negative
+"Yüksekdað Adana'da: AKP'nin korktuðunu baþýna getireceðiz, sözümüz var.", Negative
+"Madem öyle neden Adana'dan aday olmadýnýz Figen Haným?", Positive
+"AKP'nin demagoji yüklü baþörtüsü reklamýndaki kýz dört yýlda Cerrahpaþa Týp'tan mezun olacakmýþ ki, olaylar geliþmiþ.", Positive
+"Haziran Sabahý AKP !!", Positive
+"Ne mutluluk verici olur...", Positive
+"Hadi inþallah??????", Positive
+"Yol yaptý diye Akp ye oy verenler yola ekmek banarlar artýk !", Negative
+"chp rezil nir parti AKP ondan daha rezil...", Negative
+"AKP artýk Irkçý milliyetçi aþýrý saðcý muhafazakar ve statükocu Militarist,dinci anti laik Ýþid zihniyetinde  yolunu þaþýr", Negative
+"Akp'nin hukuk ve düþünce özgürlüðü ile ilgili son reklamýnýn kamera arkasý epey eðlencelidir, gülmekten reklamý zor çek", Positive 
+"Arkadaþlar yine twitter üzerinden Akp'yi gönderiyor. Ulan %50   oy vermiþ.Adamlar 400  milletvekili hedefliyor. Nereye", Positive
+"Acun da iyice ülkenin her yerinde kadrolaþan akp gibi oldu amk. her programda ayný yüzler.", Negative
+"AKP’nin desteklediði Nusra Suriye’de Alevileri katletti", Negative 
+"bunlar g.tlerinide yýrtsalar Hdp baraj altýnda kalýr.", Negative
+"AKP de %47 altýna inmezzz", Positive
+"-) o zaman yeni söylemlerine bak ayný senin gibi konuþuyorlar...", Positive
+"Derin devlet,   Eylül öncesi senaryoya döndü, hükümet olacak üçlü koalisyonun AKP parti devletiyle savaþýyla, haramzade", Negative
+"Ve sonunda tarihe geçtik... Vergiyle çalýþan arabayý ürettik!.. Unutmayýn, herkes konuþur, AKP yapar!.. ", Positive
+"Akp Hökümeti Yalakalarý,Expo   Fuarýnýnýn Türkiye Tanýtýmý Bölümünün Açýlýþýna Papa'yý Davet Etmiþ..", Negative
+"Tam Acem Ýþi Sað Gös", Negative
+"AKP'den nefret ediyorum ama cemaatin hakim ve savcýlarýný yargýdan temizlasen diye AKP'ye oy vereceðim.", Positive
+"BENIM BAÞÖRTÜLÜ BACIMMM", Positive
+"Hayatýnýz yalan AKP", Negative 
+"Herþeyiniz yalan AKP", Negative
+"Yeter oyaladýnýz AKP", Negative
+"Bekleyin yeni surum, neo liberal cemaat akp ortak yapimi gasteciler gelecek. Amerikadalar daha.", Negative
+"Haziran Sabahý AKP !!", Positive
+"Ne mutluluk verici olur...", Positive
+"Hadi inþallah??????", Positive
+"Yeni Türkiye yolunda meydana gelen kazada Demokrasi, Hukuk ve Adalet   AKP   plakalý aracýn altýnda kalarak feci þeki", Negative
+"AKP'li Çalýþma Bakaný Faruk Çelik de  'de emekliye çift ikaramiye vaadinde bulunmuþ!", Positive
+"Hahambaþýnýn torununu imamhatip'e yazdýrýp imamhatip'e gitmek istemeyen Alevi çocuða okuma diyen AKP'nin baþörtüsü maðdu", Negative
+"AKP'ye, heyecanla gidip oy veren kitleden býri de bendim! Ama...", Positive
+"Kaçak saraya Duþakabinoðullarý'ný getiren AKP Dünya gýpta ediyor dediði S.Þah kaçýþýný o gün bugündür", Negative
+"Haziran Sabahý AKP !!", Positive
+"Ne mutluluk verici olur...", Positive
+"Hadi inþallah??????", Positive
+"Yol yaptý diye Akp'ye oy verenler artýk yola ekmek banarlar !", Negative 
+"akp'nin özgürlüklerin önü açýldý isimli reklam filmi:", Positive
+"Gezici Araþtýrma'nýn anketine göre Doðu ve Güneydoðu'daki Kürt oylarý Akp'den HDP'ye akýyor. Oy kaybýnýn büyük kýsmý buradan", Negative
+"Haziran Sabahý AKP !!", Positive
+"Ne mutluluk verici olur...", Positive
+"Hadi inþallah??????", Positive
+"Son anket AKP nin 40%  oldu diyor.", Positive
+"Biraz daha düþerse hukumet yakýnda idam cezasý için kanun teklifini meclise sürer.", Negative
+"Yol yaptý diye Akp ye oy verenler yola ekmek banarlar artýk !", Negative
+"AKP ÝKTÝDARI ÝLE KUR’AN’DAN KOPARILDIK", Negative
+"Aklý baþýnda olan, vatansever olan herkes Yezid'in bittiðini görüyor. Bakalým AKP ile kimse koalisyon yapmak istemeyince", Negative
+"Bundan sonra hiç bir hukukçu AKP nin istemediði bir karar veremez. Eðer  verirse HSYK icabýna bakar.", Negative
+"AKP'nin baþörtü istismarlý reklamýnda diploma da sahte çýktý", Negative
+"Üniversiteden AKP sayesinde mezun olduðu anlatýlan... ", Positive
+"Olay tamamdýr :) AKP %47 den aþaðý almaz, HDPde baraþý aþamaz. Bunlarada çok güzel bir geçiþ olur :)", Positive 
+"Millete kaynak soracaðýnýza diyanete mercedes'in, jakuzi'nin hesabýný sorun eyy akp", Negative
+"DiyanetteJAKUZÝ SaraydaÝSRAF ", Negative
+"abi AKP'liler cok haklý CHP lilerde cok haklý hdplilerde cok haklý þimdi diyeceksinz sen cok yavþaksýn valla sizde haklýsýnz", Positive
+"Yol yaptý diye Akp ye oy verenler yola ekmek banarlar artýk !", Negative
+"gelbirOYunlasonverOYUNa", Positive
+"Vatan Partisi HDP ve AKP ile koalisyon yapmayacaðýný açýkladý. CHP ise HDP'", Positive
+"AKP DÖTÜNDEN KORKUYOR", Negative 
+"AKP'e kapalý okuyan bir kadýn MHP'e bebekli bir kadýn CHP'e genç bir kadýn adayla kadýna yaklaþýmýn halen sembolik olduðunu gösterdiler", Negative
+"ATATÜRKÜ UNUTTURDUNUZ VATAN MÝLLET DÝYORUM CHP DÝYORUM SÝZÝDE ALKIÞLIYORUM ??????", Positive 
+"Biz F.Güleni Hoca bildik ta ki Ülkeye ihanet ettiðini öðrenene kadar", Positive
+"CHP ise Gülenden nefret ederdi ta ki Hain olduðunu", Negative
+"Bakaný zorda býrakacak belge; CHP’ye yüklendi ama emekliye ikramiyeyi kendisi teklif etmiþ", Negative 
+"Ýlk defa bu seçimde gündemi Akp belirlemiyor. CHP'nin vaatleri,  MHP'nin oyu, Hdp'nin barajý konuþuluyor. Çýldýrmalarý bu", Negative
+"AKP-HDP-PKK ve alkýþçý CHP’ye karþý BizimleYürüTürkiye", Positive  
+"Yurt icinde DHKP.HDP.CHP.BDP.DevSol.Geziciler.Geri zekalilar ..Papazlar..Haysiyetsiizler.Serefsizler.. yahu insanda biraz omurga olur", Negative
+"Havuzlar ve TRT niçin CHP'nin reklamýný yayýnlamýyor?", Negative
+"Karýþmýyým diyorum ama duramýyorum chp ye oy veren kitle þimdi sana demez mi iyi halt ettin RTE bizim eserimiz diye:)", Negative
+"CHP ile HDP Ýttifaký Deþifre Oldu", Positive
+"'Özçelik: HDP'yi eleþtirmeyi býraktýk'", Positive
+"CHP MV , AKP'nin Yahudi lobisine yaptýðý   milyon dolarlýk yardýmý belgeleyeli,   gün oldu.UNUTTURMA!", Positive 
+"Cok üzgünüz Þoför Kardeþim,", Negative
+"Senin o deðerli oyunla, CHP'li bir kokonenin oyu bir sayýlacak.", Negative
+"SelamOlsunAKDostlara", Negative
+"AK Partililer CHP ye kayýyormuþ. Doðru ve hatta yanýlmýyorsam   Haziran'da  'uncu kez olacak bu", Positive
+"Sizin gibi dürüst bir insanýn CHP nin vaatleri karþýsýnda talimatla açýklama yapmak zorunda býrakýlmasý çok acý ve zavallýma...", Negative
+"Chp Eskiþehir Milletvekili Adayý Utku Çakýrözer ,Metin Chp Eskiþehir Milletvekili Adayý Metin Tomsuk : ESNAF...", Positive
+"Reza'nýn koca ülkenin cari açýðýný kapattýðýný halka yutturan hýrsýzlar, CHP'nin emekli ikramiyesini nefes almadan ele", Negative
+"AKHizmetSýnýrTanýmaz", Positive
+"CHP ÜSKÜDAR SEÇÝM STANDINA BAÞÖRTÜLÜLERÝ KOYMUÞ?? BAÞÖRTÜSÜ CHP'NÝN YALAN SÝYASETÝNE ALET OLMUÞ", Negative
+"TÜRKÝYE GÝBÝ MÜSLÜMAN ÜLKEDE NASIL BÝ BEYÝN GÖÇÜDÜR BU CHP YÝ DESTEKLEMEK", Negative
+"AkPartiÝleYeniDönem SelamOlsunAKDostlara ", Positive
+"Düsseldorf chp mitinginde RTE mantýðý ile Turgut Öker'i yuhlatanlar;", Negative 
+"Farkýnýzýn olmadýðýný biz hep söylüyorduk. Yanýltmadý", Negative
+"B.Yarkadaþ belki iyi çocuktur.Ama ideolojik donanýmý yok.Köylü.CHP de köylü partisi zaten.", Positive 
+"Chp seçmeni: Oylarý ", Positive
+"TÜRKÝYE GÝBÝ MÜSLÜMAN ÜLKEDE NASIL BÝ BEYÝN GÖÇÜDÜR BU CHP YÝ DESTEKLEMEK", Negative
+"AkPartiÝleYeniDönem SelamOlsunAKDostlara", Positive 
+"Ýnsan için nimetlerden biride dostununda düþmanýnda ahlaklý ve adil olmasýdýr fakat bu CHP de ikiside yok", Negative
+"CHP'nin Yeni Reklam Filmi: Yapman gerekeni yaptýn diye alkýþ bekliyorsan", Negative 
+"Cok üzgünüz Þoför Kardeþim", Negative
+"Senin o deðerli oyunla, CHP'li bir kokonenin oyu bir sayýlacak.", Negative
+"SelamOlsunAKDostlara", Positive 
+"Zenginler Kulübü TÜSÝAD Kimi Destekliyor.? CHP MHP ve HDP'yi Neden Destekliyorlar? Ak Parti Tek Baþýna Ýktidar Olmasýn Koali", Negative
+"YolsuzlukDeyince", Negative
+"Resmi plakalý araçtan propaganda yaptýðý iddia edilen Chp'den, bunun için açýklama duyan oldu mu ?", Negative
+"Þubat MGK bildirgesi ile CHP seçim bildirgesi neredeyse ayný... Özetle ikisi de Ýmam Hatiplerin orta kýsmýný...", Negative   
+"TÜRKÝYE GÝBÝ MÜSLÜMAN ÜLKEDE NASIL BÝ BEYÝN GÖÇÜDÜR BU CHP YÝ DESTEKLEMEK", Negative
+"AkPartiÝleYeniDönem SelamOlsunAKDostlara", Negative 
+"chp'nin seçim reklamlarý çok iddaalý izlemeden geçmeyin sakýn", Positive
+"ÜST AKIL TALÝMAT VERDÝ...KK YÜKLENMÝYOR...HDP'YE CHP OLARAK OY VERÝYOR...CHP BU SEÇÝMDE CÝDDÝ DARBE YÝYECEK...YAZIN..", Negative
+"falcimisin be mübarek,nerden biliyon.", Negative
+"Söylemleriyle KK'dan daha tutarli bir baþka bir", Positive
+"Oylar taserona hayir diyen chp ye....", Positive
+"Chp Eskiþehir Milletvekili Adayý Utku Çakýrözer , Chp Eskiþehir Milletvekili Adayý Metin Tomsuk : ESNAF...", Positive 
+"ve çýktý da yatýp kalkýp chp ye saldýrýyor kendi bir halt edemeyecek chp yi de sarsacak", Positive 
+"SelamOlsunAKDostlara", Positive  
+"Belki siz ampülü söndüremezsiniz ama her seçim gecesi bizim chp genel merkezinin ýþýklarýný söndürdüðümüz doðrudur??", Positive
+"Davutoðlu: CHP, HDP  bize karþý çalýþýyor!", Negative
+"Yok muhalefet sana çalýþacakdý??", Negative
+"Akýl ne büyük nimet!", Positive 
+"Patronlar Ak Parti zarar görsün, HDP barajý geçsin. MHP-CHP koalisyonu olsun diye servet harcama kararý aldýlar.", Positive
+"Bakaný zorda býrakacak belge; CHP’ye yüklendi ama emekliye ikramiyeyi kendisi teklif etmiþ ", Negative
+"YolsuzlukDeyince", Negative
+"Resmi plakalý araçtan propaganda yaptýðý iddia edilen Chp'den, bunun için açýklama duyan oldu mu ?", Negative
+"CHP Hakkari Milletvekili adaylarý HDP'ye oy istedi", Negative   
+"H. Arenasý bu hafta Uþak'ta... Konuklarýmýz CHP Gn.Bþk.Yrd. Selin Sayek Böke, CHP Ýst. Mv. Þafak Pavey ve Soruþturmacý", Positive
+"Ýlk defa bu seçimde gündemi Akp belirlemiyor. CHP'nin vaatleri,  MHP'nin oyu, Hdp'nin barajý konuþuluyor. Çýldýrmalarý bu", Positive
+"Þehrivan |  CHP Hakkari adaylarý HDP'ye oy istedi ", Negative 
+"Davutoðlu: CHP, HDP  bize karþý çalýþýyor!", Negative
+"Yok muhalefet sana çalýþacakdý??", Negative
+"Akýl ne büyük nimet!", Positive 
+"Kýlýçdaroðlu,tek parti dönemine atfen Ýmam Hatipleri biz kurduk diyor.CHP tek partili dönemi hiç hatýrlatmasýn.", Negative
+"GEZÝCÝ ARAÞTIRMA ÞÝRKETÝNÝN SON ANKET SONUÇLARI AÇIKLANDI", Positive 
+"Ulusalcýlarý bunun için ezdiler, CHP'den attýlar.Amaç ulusal duygularý yok etmek.. Ülkeyi sömürecek ve böleceklerin iþini ko", Negative
+"Bakan Yýldýz: CHP hesabý tekrar yapsýn", Negative
+"Sorulardaki þifreyi Sýnavlardaki hileyi Atamalardaki torpili  CHP Yok edecek.Bunlarýn maliyetide sýfýr.", Positive
+"yahu hoca þu Maraþ'da bir sorsan MHP   CHP   olursa bence Türkiye geneli enaz %   düþer bence yok gene  er olursa vay halimize", Negative
+"Ak partili olmayý býrak çapulçu olsam bile yine chp'ye oy vermem.Çünkü Atamýzýn ilke ve inkilaplarýndan ayrýlýp cemaatle", Negative
+"Fuat Uður : CHP’nin yeni Yahudileri Suriyeli sýðýnmacýlar", Negative 
+"GELÝN OY VERÝN GÝTSÝNLER   CHP", Positive
+"Yýllar yýlý Atatürk'ü,Yargýyý,orduyu,olmadý Doðanlarýlarý,koçlarý,Þimdi fetullahçýlarý kalkan yapan zavallý CHP yi MilletçeAlkýþlýyoruz", Negative
+"Aslýmýz Osmanlý'ya dönmesin diye, çoçuk'lara dahi Bira içirmeyi tevþik eden partinin adýdýr CHP.!", Negative
+"Ey Muhalefet;", Negative 
+"MHP ile HDP'yi üst üste toplasanýz, üzerine de CHP'yi ekleseniz, Bahçeli matematiði de uygulasanýz:) kaz", Negative
+"CHP Eyüp Topçular mahalle Temsilciliði açýlýþýný gerçekleþtirdik. GelinOyVerin", Positive 
+"o baþ örtülün orada ne iþi varmýþ bi baþý örtülünün chp sýtanttýnda yer almasý bir Müslüman'ýn kilsede ayin yapm", Negative
+"Zenginler Kulübü TÜSÝAD Kimi Destekliyor.? CHP MHP ve HDP'yi Neden Destekliyorlar? Ak Parti Tek Baþýna Ýktidar Olmasýn Koali", Positive
+"Ýlk baþta cemaatin tavrýný anlamamýþ ve suçlamýþtým.Cemaat büyük bir projeye ülke adý", Positive
+"Öyle tencereye, Böyle kapak yaraþýr. CHP _______________:)", Positive
+"Baþörtüsü sorununu MHP çözmüþtür. Sn.  vekilimizden bilgi alabilirsiniz.Þimdi Kalkýp birileri reklam", Positive
+"AKP, CHP ve MHP hepsi ayný bilincin temel mekanizmasýdýr, kazanana oynuyorlar...", Negative 
+"on sekiz kisiye sormus on sekizide mhp demis", Negative 
+"MHP, CHP ve HDP koalisyonunda Ekonomi Bakaný Kemal Derviþ ve Maliye Bakaný Durmuþ Yýlmaz, devraldýklarý enkaz ekonomiyi", Positive
+"Mhp Mv Adaylarý Beykozda,Hz yuþa türbesinde ziyaretle güne baþladýlar,Allah Yar yardýmcýnýz olsun.", Positive 
+"Ne demiþti reis.", Positive
+"Ýþte mhp'nin durumunu açýklayan söz KurtcakallakarýstýMHPsasýrdý", Negative     
+"HDP ve MHP Ýstediði Kadar Deðnekçi Döðüþü Yapsýnlar.! Bizim Umurumuzda bile Deðil.!! Biz Onlarýn Görüþlerini Ezelde Redddet", Negative 
+"CHP, AKP'lileþirde,MHP, ondan geri durur mu?", Negative 
+"Ýki program çarpýþýyor. Birincisi, Milli Hükümet Programý.", Positive
+"Almanya'da Alman lidere hadini bildiren lidere DEVLET BAHÇELÝ, partisine de Milliyetçi Hareket Partisi (MHP) denir.", Positive
+"Bin'e yakýn facebook arkadas grubumda býr tane mhp'li var; ve ne zaman acsam gözümün önüne kurt iþaretý yapmiþ fotosu cýkýyor; günler++", Positive
+"Perinçek ; Chp ve Mhp'nin   kasetlik caný var...", Negative 
+"Halen cemaati suçlayabiliyor musunuz ?", Negative  
+"düþünüyorum düþünüyorum bunlarda gerçek olan ne diye,hýrsýz ve Vatan hainliði dýþýnda herþeyleri sahte", Negative  
+"Bir arkadaþýmý mhp'yi býrakmaya ikna ettim saadet'e geçti, saadet'te gitti BBP ile ittifak yaptý :/", Negative 
+"Bütün emeklerim boþa gi", Negative 
+"Ey Muhalefet; MHP ile HDP'yi üst üste toplasanýz, üzerine de CHP'yi ekleseniz, Bahçeli matematiði de uygulasanýz:)", Negative 
+"Biz yürürsek, güneþ ufuktan hemen doðar. YürüyelimArkadaþlar,", Positive 
+"Ýlk defa bu seçimde gündemi Akp belirlemiyor. CHP'nin vaatleri,  MHP'nin oyu, Hdp'nin barajý konuþuluyor. Çýldýrmalarý", Positive
+"MHP Iðdýr Milletvekili Dr. SÝNAN OÐAN'ýn annesi hakkýn rahmetine kavuþmuþtur. Baþýmýz sað olsun sayýn vekilim @DrSinanOgan", Positive
+"-Erdoðan için üçüncü tehlike MHP'nin milliyetçi muhafazakar oylarýný AKP'den çalmasý..", Positive
+"CHP, Kemal Kýlýçdaroðlu'nun, MHP de Devlet Bahçeli'nin yerine bir lider çýkaramayacaksa... Kapatsýnlar dükkaný!", Negative  
+"- Anadoluda insanlar TV meraklýsý. MHP, TV ekranlarýna ne kadar çok çýkarsa, Ýç Anadoluda AKP'nin oylarýnýn düþüþünü o", Positive
+"Biz yürürsek, güneþ ufuktan hemen doðar. YürüyelimArkadaþlar,", Positive 
+"MHP Ýktidarýnda rüþvet diploma veren öðretmenler silinmeli", Positive
+"SON ANKETLER iniyoruz kemerleri baðlayýn diyor.", Positive   
+"Vur kazmayý Ferhat, çoðu gitti azý kaldý", Positive
+"-Erdoðan için üçüncü tehlike MHP'nin milliyetçi muhafazakar oylarýný AKP'den çalmasý", Positive
+"mhp hdp ha.hah haaa haa", Positive
+"MHP'ye Oylarý Kaybeden Erdoðan'dan Teröristler Görüþülmez Diyerek Yeni Bir U Dönüþü", Negative
+"HADÝ ERZURUM BU SEFER ÖZÜNE DÖN VE DUR DE ZULME...MHP ERZURUM ADAYLARI...", Positive 
+"MHP'yi geç zaten. CHP'de MHP varken HDP ile koalisyon kurmaz. HDP için tek alternatif Akp. Yanlýþ mý?", Positive
+"MÜSLÜMAN KANMAZ BU YALANA", Positive
+"MHP nin böyle bir niyeti olmadýðý açýk. Oyum ne artsýn ne azalsýn derdinde!", Negative 
+"AÐLATILMAMALIYDI! sabirla bekledik halada bekliyoruz SAYGIYI HAKEDÝYORUZ!  xs.", Positive
+"Huzur için tek çare MHP’dir,Ýstikrar için tek çare MHP’dir,Toplumsal ve ekonomik onarým için tek umut MHP’dir.", Positive  
+"Üzülerek söylüyorum: Vatan Partisi:  .  oy (  ye katlayacak)", Negative 
+"Talas Kaymakamlýðý'na ziyarette bulunduk.", Positive
+"BizimleYürüTürkiye", Positive
+"MHPyeOyVerOyunaSonVer", Positive 
+"Vur kazmayý Ferhat, çoðu gitti azý kaldý", Positive 
+"MHP vekili ve çok deðerli insan Sn. 'ýn adý gibi 'KIYMETLÝ' annesi Kýymet Oðan hakký rahmetine kavuþmuþ.Allah rahmet eylesin.", Positive 
+"MHP li  Oktay  Vural umarim tatmin olursunuz", Positive
+"Altýndað'ýmýzýn Altýn Yürekli Dostlarý Ýle", Positive
+"Dayanýþma Sofrasýnda Buluþtuk.", Positive
+"MHP Ýle Yürümeye Kararlýlar.", Positive
+"Mutlu Olduk.", Positive 
+"- MHP -chp- hdp koalisyonu ya olmaz olsada   ay yaþar. bu iþler sahada düt düt yapmaya benzemez efendi. hesaba bak öyle yaz", Negative    
+"Mhp secim bildirgesi  c liye kadro parti  c kuklanmis secim vaatlerinde teþekkürler mhp    c unutmadiniz", Positive 
+"MHP'den Uþak Devlet Hastanesi ve AK Parti hakkýnda suç duyurusu - HaberTuar haber", Negative 
+"Milliyetçiliðin tohumlarýný birlikte atmak için YürüyelimArkadaþlar MHP yi tek baþýna iktidara getirmek için YürüyelimArkadaþlar", Positive 
+"Ülkücülük...", Positive
+"Baþörtüsü sorununu MHP çözmüþtür. Sn.  vekilimizden bilgi alabilirsiniz.Þimdi Kalkýp birileri reklam", Positive
+"Zihni Açba nin adayliði cok hayirli oldu MHP ye.", Positive 
+"Zar zor Türkçe konuþan bir Kürd kýzý oyum MHP ye dedi.En azýndan begginer seviye Türkçesi olmasi gerekiyordu atlamþ ablamz", Positive   
+"Bugün Çankaya Turan Güneþ Bulvarýndaydýk.. Esnaf ziyaretinde bulunduk ve çok samimi karþýlandýk.", Positive 
+"Geliyoruz MHP", Positive 
+

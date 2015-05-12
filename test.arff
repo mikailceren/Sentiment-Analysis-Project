@@ -1,0 +1,14 @@
+@relation test
+
+@attribute document string
+@attribute class {Negative ,Positive }
+
+@data
+
+"CHP MV , AKP'nin Yahudi lobisine yaptığı   milyon dolarlık yardımı belgeleyeli,   gün oldu.UNUTTURMA!", ? 
+"CHP merkez ilçe başkanları seçim için toplandı Ocak Gazetesi Çukurovanın En İyi Gazetesi", ? 
+"Emekliler chp de devriş kemale oy vermeyin bu adam emekliye ölü gözü", ? 
+"Türkiyemiz ve Türkçemiz adına yararlı her işi bizde destekliyoruz..", ? 
+"CHP iktidarına hazır olun. Artık hep birlikteyiz.", ?
+
+
